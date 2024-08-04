@@ -1,1 +1,1 @@
-# starter-pete-thinkful-portfolio-main
+# starter-pete-thinkful-portfolio
